@@ -9,6 +9,7 @@ Este projeto foi conduzido em várias etapas, incluindo exploração de dados, s
 ### Exploração dos Dados
 
 Exploramos um conjunto de dados históricos de aluguel de bicicletas fornecido pela Capital Bikeshare. Analisamos cuidadosamente as características sazonais, como o mês, dia da semana e ano, juntamente com as condições meteorológicas, como temperatura, umidade e velocidade do vento.
+![image](https://github.com/RochaDenis/rentalbike_lab_AI900_Azure/assets/49164278/e5d95ab4-6c8c-4dc1-a73e-219bd5a3388e)
 
 ### Seleção e Treinamento do Modelo
 
