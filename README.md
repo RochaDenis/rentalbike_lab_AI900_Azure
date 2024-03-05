@@ -17,11 +17,21 @@ Optamos por utilizar o aprendizado de máquina automatizado fornecido pelo Azure
 
 Selecionamos cuidadosamente os modelos permitidos, incluindo RandomForest e LightGBM, e configuramos limites para controlar o tempo e os recursos utilizados durante o treinamento.
 
+![image](https://github.com/RochaDenis/rentalbike_lab_AI900_Azure/assets/49164278/4df2aa29-6c10-4912-b31f-ce36e403a023)
+
+
+
 ### Avaliação do Modelo
 
 Após o treinamento, avaliamos os modelos gerados pelo trabalho de ML automatizado. Analisamos métricas de desempenho, como o erro quadrático médio normalizado, e revisamos gráficos residuais e preditos para entender melhor o desempenho do modelo.
 
+![image](https://github.com/RochaDenis/rentalbike_lab_AI900_Azure/assets/49164278/ee84b844-0374-4064-81a4-aef34e3d8997)
+
+
 ### Implantação do Modelo
 
 Implantamos o melhor modelo treinado como um serviço web usando uma instância de contêiner do Azure. Testamos o serviço implantado com dados de entrada simulados para garantir que ele estivesse funcionando corretamente.
+
+![image](https://github.com/RochaDenis/rentalbike_lab_AI900_Azure/assets/49164278/9718da77-dcdd-43f7-b479-d8750437e3b5)
+
 
